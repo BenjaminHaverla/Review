@@ -5,4 +5,6 @@
 - ADVANTAGE: I like the content
 - DISADVANTAGE: It doesn't feel like an essay
 
-#### [BACK TO THE MAIN PAGE](https://github.com/BenjaminHaverla/English-essay-workflow.git)
+-------------------------------------------------------------
+
+#### [<– BACK](https://github.com/BenjaminHaverla/English-essay-workflow.git)
